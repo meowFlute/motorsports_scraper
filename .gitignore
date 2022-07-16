@@ -53,3 +53,4 @@ dkms.conf
 
 # Compiled Results
 scrape
+http_request_tester
